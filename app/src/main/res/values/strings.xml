@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VPN Gate SSTP</string>
+    <string name="copied_to_clipboard">Copied to clipboard!</string>
+    <string name="copied_address">Server address copied!</string>
+    <string name="copied_credentials">Connection credentials copied!</string>
+    <string name="copied_full_profile">Full SSTP profile copied!</string>
+    <string name="servers_updated">Servers successfully updated</string>
+    <string name="refresh_failed">Failed to refresh live servers. Using cached servers.</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix VPN Gate SSTP",
+  "description": "VPN Gate SSTP Finder: Discover, test, and one-tap copy high-speed SSTP servers from the open VPN Gate network with intelligent offline caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
