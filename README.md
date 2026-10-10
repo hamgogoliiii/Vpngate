@@ -27,7 +27,7 @@ SSTP Finder 🛡️
 
 Clone کردن پروژه:
 bash
-   git clone https://github.com/your-username/vpngate-sstp.git
+   git clone https://github.com/mosallaei1976/vpngate-sstp_android.git
 Sync کردن Gradle:
 
 پروژه را در Android Studio باز کنید و اجازه دهید Dependencyها دانلود شوند.
